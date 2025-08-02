@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Akhil Jyothidas
 # 💫 About Me:
-I'm a final year Computer Science and Engineering student from KTU university with a passion for Data Science and Mobile App Development.<br>🔭 I’m currently working on Data Science and Flutter projects.<br>👯 I’m looking to collaborate on real world projects.<br>🌱 I’m currently learning Machine Learning
+I'm a Computer Science and Engineering Graduate from KTU university with a passion for Data Science and Mobile App Development.<br>🔭 I’m currently working on Data Science and Flutter projects.<br>👯 I’m looking to collaborate on real world projects.<br>🌱 I’m currently learning Machine Learning
 
 
 ## 🌐 Socials:
